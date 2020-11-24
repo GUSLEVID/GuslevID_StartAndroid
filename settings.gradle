@@ -1,0 +1,13 @@
+include ':p0151_contextmenu'
+include ':p0141_menuadv'
+include ':MenuSimple'
+include ':LogAndMess'
+include ':Listener'
+include ':OnClickButtons'
+include ':ViewById'
+include ':LayoutProp'
+include ':Layouts'
+include ':p0051layoutfiles'
+include ':p0041basicviews'
+include ':app'
+rootProject.name = "GuslevID_StartAndroid"
